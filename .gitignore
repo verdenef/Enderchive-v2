@@ -1,0 +1,39 @@
+# Laravel
+enderchive-laravel/.env
+enderchive-laravel/.env.backup
+enderchive-laravel/.env.production
+enderchive-laravel/vendor/
+enderchive-laravel/node_modules/
+enderchive-laravel/public/build/
+enderchive-laravel/public/hot
+enderchive-laravel/storage/*.key
+enderchive-laravel/storage/pail
+enderchive-laravel/.phpunit.cache
+enderchive-laravel/.phpunit.result.cache
+enderchive-laravel/bootstrap/cache/*
+!enderchive-laravel/bootstrap/cache/.gitignore
+
+# IDE
+.idea/
+.vscode/
+.fleet/
+.nova/
+.phpactor.json
+.zed/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Database
+enderchive-laravel/database/database.sqlite
+enderchive-laravel/database/*.sqlite
+
+# Auth
+enderchive-laravel/auth.json
+
+# Homestead
+enderchive-laravel/Homestead.json
+enderchive-laravel/Homestead.yaml
+
